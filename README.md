@@ -1,13 +1,12 @@
 #  Question Six
 
 ### Instructions
-
+```
 Please create a HTML document using only HTML, CSS and JQUERY (and any jquery libraries you would like to include).
  
 At the top of this document should be a <div> container that spans the width of the page, and is 250px in height. This <div> container should also have a 1 pixel wide red border.
  
-Finally, beneath this <div> container, the document should display a form that does following:
- 
+Beneath this <div> container, the document should display a form that does following:
  
  
 a)	Displays the following fields: Name (Text Field), Phone Number (Text Field), Favorite color (Select Field with the following options: blue, green, red). The form also has a "submit" and "reset" button.
@@ -22,4 +21,4 @@ c)When a user selects one of the colors from the select box, a javascript alert 
  
 d)When the submit button is clicked, the form information (name, phone number and favorite color) are populated in the <div> container at the top of the page.
  
-
+```
