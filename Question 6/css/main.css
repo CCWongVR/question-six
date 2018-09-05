@@ -1,0 +1,7 @@
+#top-div {
+    width: 100%;
+    height: 250px;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
